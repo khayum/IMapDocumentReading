@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMapDocumentReading", "IMapDocumentReading.csproj", "{4E346C78-0AE1-46CA-8322-AC080E3C6859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E346C78-0AE1-46CA-8322-AC080E3C6859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E346C78-0AE1-46CA-8322-AC080E3C6859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E346C78-0AE1-46CA-8322-AC080E3C6859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E346C78-0AE1-46CA-8322-AC080E3C6859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB882598-2205-4F3B-B3C6-C8EA9C895861}
+	EndGlobalSection
+EndGlobal
